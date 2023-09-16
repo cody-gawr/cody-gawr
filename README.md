@@ -28,6 +28,7 @@ At heart, I love definitely Python and Laravel; The last decade I gained experie
 👩‍💻 Solidity Develoepr & (hobbyist) Front-end Developer, former Product Manager
 
 👩‍🏫 Smart Contract Auditor
+
 🎮 Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
 😻 Loving cats &🍹 Tiki bars
