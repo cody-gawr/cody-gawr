@@ -1,4 +1,4 @@
-Hi there 👋! I am Cody, an experienced full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
+Hi there 👋! I am Haiyang, an experienced full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
 
 At heart, I love definitely Python and Laravel, Solidity; The last decade I gained experience working as a back-end developer, technical product manager and frontend-developer. 
 
