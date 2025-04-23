@@ -1,6 +1,23 @@
-Hi there 👋! I am Cody, an experienced Angular developer and technical writer with a demonstrated history of working in the information technology and services industry.
+# Hi there 👋, I’m Cody!
+I’m a **Senior Angular & Laravel Developer** with over a decade of experience creating robust, scalable web applications.  
+I’m also a **growing Smart Contract Developer and Auditor**, passionate about blockchain and eager to expand my skills in decentralized tech.
 
-At heart, I love definitely Angular and Laravel, Solidity; The last decade I gained experience working as a frontend-end developer and backend-developer. 
+---
+
+## About Me
+
+💻 Experienced frontend and backend developer focused on delivering clean, maintainable code using Angular and Laravel.  
+🔐 Diving deeper into Solidity and smart contract development, learning best practices for secure and reliable blockchain apps.  
+🎯 Always eager to learn, improve, and contribute to exciting projects in both web and blockchain spaces.
+
+---
+
+## My Tech Stack
+
+- **Frontend:** Angular, TypeScript, RxJS, NgRx  
+- **Backend:** Laravel, PHP, REST APIs, MySQL  
+- **Blockchain:** Solidity (beginner), Smart Contract Auditing (learning), Ethereum basics  
+- **Tools:** Git, Docker, Testing (Jest, PHPUnit)  
 
 **Languages and Tools:**
 
@@ -12,44 +29,27 @@ At heart, I love definitely Angular and Laravel, Solidity; The last decade I gai
 
   </div>
   </p>
+  
+---
+
+## What I Do
+
+- Build and maintain full-featured Angular and Laravel applications  
+- Collaborate on smart contract projects and security audits as I grow my blockchain skills  
+- Write technical content to share knowledge and document my learning journey  
+- Enjoy mentoring and learning alongside other developers  
 
 ---
 
+## A Bit More Personal
 
-## In short:
-<p>
-  <img width="200" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif">
-</p>
+🎮 Anime, board & video game enthusiast 🤓 — always curious and up for challenges!  
+😻 Cat lover and Tiki bar fan 🍹 — because work-life balance matters.  
 
-
-
-💁‍♀️ Angular and Laravel developer 
-
-👩‍💻 Front-end Develoepr & (hobbyist) Smart Developer, Laravel Developer
-
-👩‍🏫 Smart Contract Auditor
-
-🎮 Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
-
-😻 Loving cats &🍹 Tiki bars
-
-
+---
 
 ### 💬 Where to find me:
 - 🦜 Blog: https://cody-logs.vercel.app
 - 📃 Website: https://cody-portfolio.vercel.app
 
-<!--
-**Mangamaui/Mangamaui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Excited to keep growing as a smart contract developer while delivering quality web apps!
