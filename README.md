@@ -1,6 +1,6 @@
-Hi there 👋! I am Haiyang, an experienced full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
+Hi there 👋! I am Cody, an experienced Angular developer and technical writer with a demonstrated history of working in the information technology and services industry.
 
-At heart, I love definitely Python and Laravel, Solidity; The last decade I gained experience working as a back-end developer, technical product manager and frontend-developer. 
+At heart, I love definitely Angular and Laravel, Solidity; The last decade I gained experience working as a frontend-end developer and backend-developer. 
 
 **Languages and Tools:**
 
@@ -23,9 +23,9 @@ At heart, I love definitely Python and Laravel, Solidity; The last decade I gain
 
 
 
-💁‍♀️ Python and Laravel developer 
+💁‍♀️ Angular and Laravel developer 
 
-👩‍💻 Solidity Develoepr & (hobbyist) Front-end Developer, former Product Manager
+👩‍💻 Front-end Develoepr & (hobbyist) Smart Developer, Laravel Developer
 
 👩‍🏫 Smart Contract Auditor
 
@@ -36,7 +36,7 @@ At heart, I love definitely Python and Laravel, Solidity; The last decade I gain
 
 
 ### 💬 Where to find me:
-- 🦜 Twitter: https://twitter.com/Cody81568480854
+- 🦜 Blog: https://cody-logs.vercel.app
 - 📃 Website: https://cody-portfolio.vercel.app
 
 <!--
