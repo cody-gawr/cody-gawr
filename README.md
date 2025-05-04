@@ -1,12 +1,12 @@
 # Hi there 👋, I’m Cody!
-I’m a **Senior Angular & Laravel Developer** with over a decade of experience creating robust, scalable web applications.  
+I’m a **Senior Frontend Developer** with over a decade of experience creating robust, scalable web applications.  
 I’m also a **growing Smart Contract Developer and Auditor**, passionate about blockchain and eager to expand my skills in decentralized tech.
 
 ---
 
 ## About Me
 
-💻 Experienced frontend and backend developer focused on delivering clean, maintainable code using Angular and Laravel.  
+💻 Experienced frontend and backend developer focused on delivering clean, maintainable code using Angular and Node.js, Laravel, .NET.  
 🔐 Diving deeper into Solidity and smart contract development, learning best practices for secure and reliable blockchain apps.  
 🎯 Always eager to learn, improve, and contribute to exciting projects in both web and blockchain spaces.
 
@@ -14,10 +14,10 @@ I’m also a **growing Smart Contract Developer and Auditor**, passionate about 
 
 ## My Tech Stack
 
-- **Frontend:** Angular, TypeScript, RxJS, NgRx  
-- **Backend:** Laravel, PHP, REST APIs, MySQL  
+- **Frontend:** Angular, React, Vue, JavaScript,TypeScript, RxJS, NgRx  
+- **Backend:** Node.js, Laravel, .NET, REST APIs, MySQL  
 - **Blockchain:** Solidity (beginner), Smart Contract Auditing (learning), Ethereum basics  
-- **Tools:** Git, Docker, Testing (Jest, PHPUnit)  
+- **Tools:** Git, Docker, Testing, Jest, Karma
 
 **Languages and Tools:**
 
@@ -34,7 +34,7 @@ I’m also a **growing Smart Contract Developer and Auditor**, passionate about 
 
 ## What I Do
 
-- Build and maintain full-featured Angular and Laravel applications  
+- Build and maintain full-featured Angular and Node.js, Laravel applications  
 - Collaborate on smart contract projects and security audits as I grow my blockchain skills  
 - Write technical content to share knowledge and document my learning journey  
 - Enjoy mentoring and learning alongside other developers  
