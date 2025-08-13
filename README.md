@@ -48,8 +48,4 @@ I’m also a **growing Smart Contract Developer and Auditor**, passionate about 
 
 ---
 
-### 💬 Where to find me:
-- 🦜 Blog: https://blog.cody-gawr.dev
-- 📃 Website: https://cody-gawr.dev
-
 Excited to keep growing as a smart contract developer while delivering quality web apps!
